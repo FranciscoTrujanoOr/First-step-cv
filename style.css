@@ -1,0 +1,170 @@
+/* -------BARRA DE NAVEGACION-------- */ 
+.navbar {
+    padding: 20px;
+    background-color: linen }
+
+.navbar-nav {
+     justify-content: space-between; }
+
+.navbar-collapse{
+    justify-content: end; }
+
+
+
+/* --------PRINCIPAL--------- */
+
+.About{
+    min-height: 450px;
+    text-align: center;  }
+
+.About img {
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    padding: 3px;
+    border: solid 2px black;  }
+
+.about-main{
+    padding: 25px;
+    align-items: center;
+    /*background-image: url("Imagenes/EOG5.gif");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-clip:padding-box;*/   }
+
+
+/*-----------ABOUT ME----------- */
+
+.about-me{
+    height: 840px;
+    padding: 10px;
+}
+
+.about-me .contenedor {
+    max-width: 550px;
+    text-align: center;
+    padding: 5px;
+}
+
+/* -----------TITULOS------------ */
+h1{
+    font-size: 25px; 
+        }
+
+h2{
+    font-size: 25px;
+    font-family: 'VT323', monospace; 
+    color: #663;   }
+
+ h3{
+    font-size: 30px;
+    font-family: 'VT323', monospace;
+    padding: 10px;
+    text-align: center;
+    
+ }   
+
+/*-------------EXPERIENCIA--------------*/
+
+.contenedor-experience {
+    height: 1000px;
+}
+
+.carousel-inner{
+max-width: 600px;
+max-height: 360px;
+}
+
+.solfran{
+    background-image: url(Imagenes/SolfranOpacity.JPG);
+    background-repeat: no-repeat;
+    background-size: 240px;
+    background-position: center;
+    color: black;   
+}
+
+.obra{
+    background-image: url(Imagenes/L3opacity.JPG);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: right top;
+    
+}
+
+.flextronics{
+    background-image: url(Imagenes/flexOpacity.JPG);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: center;
+    color: black;
+}
+
+.pisa{
+    background-image: url(Imagenes/pisaOpacity.JPG);
+    background-repeat: no-repeat;
+    background-size: 175px;
+    background-position: center;
+    color: black;
+}
+/*.img-solfran{
+    position: relative;
+    max-width: 175px;
+    opacity: 0.3;
+    position: center;
+}
+.card{
+    position: relative;
+}
+.ul-solfran{
+    position: absolute;
+}
+
+.p-solfran{
+    opacity: 0;
+}*/
+
+/*------------------LENGUAGE--------------*/
+
+.navbar img{
+ height: 27px;
+ width: 32px;
+ padding: 2px;
+ cursor: pointer;
+}
+
+ /*-----------------FOOTER---------------*/ 
+
+  footer{
+    background-color: linen
+  }
+  
+  .bi{
+    font-size: 17px;
+    padding: 0px 0px 0px 20px;
+  }
+
+
+
+/* -------------SECCIONES---------------*/
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*background-image: url("Imagenes/EOG5.gif");
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-clip:padding-box;*/
+    
+}
+
+.seccion-oscura{
+    background-color: black;
+    color: white;
+}
+
+.h3experiencia{
+    color: #663;
+}
+

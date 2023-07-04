@@ -1,0 +1,80 @@
+{
+ "solfran": {
+    "p-solfran": "Inspector de Calidad en Laboratorios SOLFRAN  2012-2017 desempeñando las siguiente actividades",
+    "ul-solfran1": "Llevar acabo inspecciones de producto termanado y producto a granel.",  
+    "ul-solfran2": "Dar autorización en arranques de proceso.",
+    "ul-solfran3": "Muestrar de materia prima bajo el regimen de tablas ANSI.",
+    "ul-solfran4": "Muestrar de producto en proceso.",
+    "ul-solfran5": "Liberacion o retención de producto terminado.",
+    "ul-solfran6": "Muestro de agua grado inyectable, purificada y vapor limpio.",
+    "ul-solfran7": "Uso de equipos como potenciometro, viscosimetro, fragilizador, durometro.",
+    "ul-solfran8": "Realización de instructivos.",
+    "ul-solfran9": "Tengo experiencia en solidos, liquidos, betalactamicos, inyectables y MP."
+ }, 
+
+ "obra":{ 
+    "p-obra" : "Residente de obra en Consorcio Linea 3  2017-2018 desempeñando las siguiente actividades:",
+    "ul-obra1": "Gestion de consumibles de obra.",
+    "ul-obra2": "Hacer planos en AutoCad 2D.",
+    "ul-obra3": "Inventario y gestion de maquinaría y refracciones.",
+    "ul-obra4": "Gestión y aprobación de horas pagadas del personal a mi cargo.",
+    "ul-obra5": "Organización y supervisión de uno de los frentes en el desmontaje de una tuneladora, teniendo a cargo 35 personas más contratistas.",
+    "ul-obra6": "Gestión de maquinaria como compresores, grupos electrogenos, gruas de 80 a 800 toneladas,volteos,camas bajas etc.",
+    "ul-obra7": "Supervisión en obra instalación de tuberia hincada con microtuneladora 2m diametro, teniendo a mi cargo 25 personas más maquinaría."
+ },
+
+ "flex":{
+    "p-flex": "Ingeniero Industrial Regional jr 2019-2020 durante mi estancia en Flex desempeñe las siguientes funciones:",
+    "ul-flex1": "Realizar balanceos de linea.",
+    "ul-flex2": "Diseñar LayOut para nuevas lineas productivas.",
+    "ul-flex3": "Mejorar LayOut existentes.",
+    "ul-flex4": "Diseñar estaciones de trabajo ergonomicas en AutoCad 3D.",
+    "ul-flex5": "Realizar MockUp Line.",
+    "ul-flex6": "Realizar estudios de tiempos.",
+    "ul-flex7": "Proyectos optimización de espacio.",
+    "ul-flex8": "Proyectos optimización de proceso con la metologia manufactura esbelta y seis sigma.",
+    "ul-flex9": "Soporte de ingenieria a diferentes naves electronico y metal mecanico."
+
+ },
+
+ "pisa": {
+   "p-pisa": "Ingeniero industrial Sr en Laboratorios PiSA  2020-2023 desempeñando las siguiente actividades:",
+   "ul-pisa1": "Realizar balanceos de linea.",
+   "ul-pisa2": "Realizar estudios de tiempos.",
+   "ul-pisa3": "Estudio de capacidad y saturación en lineas de produccion.",
+   "ul-pisa4": "Diseñar estaciones de trabajo ergonomicas en AutoCad 3D.",
+   "ul-pisa5": "Estudios estadisticos como ANOVA, Monte Carlo, graficos e hipotesis.",
+   "ul-pisa6": "Diseñar LayOut para nuevas lineas productivas.",
+   "ul-pisa7": "Mejorar LayOut existentes.",
+   "ul-pisa8": "Implementacion de 5s.",
+   "ul-pisa9": "Participación en proyectos de ahorro en costos de fabricación.",
+   "ul-pisa10": "Realizar metodos de trabajo estandar.",
+   "ul-pisa11": "Impartir cursos basicos de manufactura esbelta y 5S.",
+   "ul-pisa12": "Participación en proyectos de aumento de eficiencia productiva, Oee.",
+   "ul-pisa13": "Uso de herramientas manufactura esbelta y seis sigma"
+  },
+
+   "acercaMi": {
+        "p-acercaMi": "Soy Ingeniero Industrial egresado de la UTEG tengo 30 años, soy autodidacta y me enfoco en el aprendizaje continuo. Siempre intento ejercer mis habilidades y conocimientos, encaminado al crecimiento personal y el crecimiento de la empresa que se convierte en uno mismo en un determinado momento, busco ofrecer un buen desempeño y ser evaluado constantemente para lograr avances con críticas constructivas. Me gusta tomar iniciativas y crear mis propias cosas como este sitio web."  
+   },
+
+   "titulos": {
+        "title-acerca": "Acerca de mi",
+        "title-habilidades": "Habilidades",
+        "title-experiencia": "Experencia",
+        "title-presentacion1": "Bienvenido soy Francisco Trujano Ordaz",
+        "title-presentacion2": "Ingeniero Industrial y desarrollador Web",
+        "title-carrier": "Carrera Profesional",
+        "title-datos": "Datos Personales"
+   },
+
+   "botones":{
+       "boton-inspector": "Inspector calidad",
+       "boton-residente": "Ing. Residente Sr",
+       "boton-jr":        "Ing. Indistrial Jr",
+       "boton-sr":        "Ing. Industrial Sr"  
+
+   }
+
+
+}

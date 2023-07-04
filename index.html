@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<!--Instalación Bootstrap--> 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<!--Union Css-->
+<link href="style.css" rel="stylesheet">
+<!--MetaDatos-->
+<meta charset="utf-8">
+<meta name="author" content="Francisco Trujano">
+<meta name="description" content="Cv desarrollo web">
+<meta name="Keywords" content=" HTML, CSS, React, JavaScript">
+<meta name="viewport" content="width=device-width,  initial-scale=1">
+<!--Titulo-->
+<title>Francisco Trujano - Resume</title>
+
+<!--Google Fonts-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+</head>
+<body>
+    <!--Barra de Navegación-->
+    <nav class="navbar navbar-expand-md navbar-light">
+        <div class="container-fluid">
+          <div id="bandera" class="bandera">
+          <div class="navbar-brand" href="#" data-lenguaje= "es">
+            Es <img src="Imagenes/mx.svg" alt="lenguaje español bandera mexicana">
+          </div>
+          <div class="navbar-brand" href="#" data-lenguaje="en">
+            En <img src="Imagenes/us.svg" alt="lenguaje ingles bandera estadounidense">
+          </div> 
+        </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-toggler" aria-controls="navbar-toggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbar-toggler">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#aboutMe" data-section="titulos" data-value="title-acerca">Acerca de mi</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link"  href="#experienceIng" data-section="titulos" data-value="title-carrier">Carrera Profesional</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#personalData" tabindex="-1" data-section="titulos" data-value="title-datos">Datos Personales</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <!--Main-->
+      <section class="About aling-items-stretch">
+        <div class="about-main d-flex aling-content-center justify-content-center  flex-column ">
+
+            <img src="Imagenes/fotocv.jpg" alt="Foto Francisco Trujano">
+            <h1 data-section="titulos" data-value="title-presentacion1"> Bienvenido soy Francisco Trujano Ordaz</h1>
+            <h2 data-section="titulos" data-value="title-presentacion2">Ingeniero Industrial y desarrollador Web</h2>
+      </section>
+      <!--About me-->
+      <section id="aboutMe" class="seccion-oscura about-me">
+        <div class="contenedor">
+          <h3 data-section="titulos" data-value="title-acerca">Acerca de mi</h3>
+          <p data-section="acercaMi" data-value="p-acercaMi">
+            Soy Ingeniero Industrial egresado de la UTEG tengo 30 años,
+             soy autodidacta y me enfoco en el aprendizaje continuo.
+            Siempre intento ejercer mis habilidades y conocimientos,
+            encaminado al crecimiento personal y el crecimiento de la
+            empresa que se convierte en uno mismo en un determinado momento,
+            busco ofrecer un buen desempeño y ser evaluado constantemente para
+            lograr avances con críticas constructivas. Me gusta tomar iniciativas
+            y crear mis propias cosas como este sitio web.
+          </p>
+          <h3 data-section="titulos" data-value="title-habilidades">Habilidades</h3>
+          <ul>
+            <span class="badge bg-light text-dark">Advance English</span>
+            <span class="badge bg-light text-dark">AutoCad</span>
+            <span class="badge bg-light text-dark">MiniTab</span>
+            <span class="badge bg-light text-dark">Excel</span>
+            <span class="badge bg-secondary">HTML-CSS</span>
+            <span class="badge bg-warning text-dark">JavaScript</span>
+            <span class="badge bg-info text-dark">React</span>
+          </ul>
+          <img src="Imagenes/udg.png">
+          <img src="Imagenes/uteg.jpg">
+    
+        </div>
+      </section>
+      <!--Experience-->
+      <section id="experienceIng">
+        <h3 class="h3experiencia" data-section="titulos" data-value="title-experiencia">Experiencia</h3>
+        <div class="contenedor-experience">
+
+          <!--SOLFRAN-->
+          <p>
+            <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" data-section="botones" data-value="boton-inspector">
+              Inspector calidad
+            </a>
+            <!--<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+              Button with data-bs-target
+            </button>-->
+          </p>
+          <div class="collapse" id="collapseExample">
+            <div class="card card-body solfran">
+              <p class="p-solfran" data-section="solfran" data-value="p-solfran">Inspector de Calidad en Laboratorios SOLFRAN  2012-2017 
+                desempeñando las siguiente actividades:
+              </p>
+              <ul" class="ul-solfran">
+                <li data-section="solfran" data-value="ul-solfran1">Llevar acabo inspecciones de producto termanado y semielaborado.</li>
+                <li data-section="solfran" data-value="ul-solfran2">Dar autorización en arranques de proceso.</li>
+                <li data-section="solfran" data-value="ul-solfran3">Muestro de materia prima bajo el regimen de tablas ANSI.</li>
+                <li data-section="solfran" data-value="ul-solfran4">Muestreo de producto en proceso.</li>
+                <li data-section="solfran" data-value="ul-solfran5">Liberacion o retención de producto terminado.</li>
+                <li data-section="solfran" data-value="ul-solfran6">Muestro de agua grado inyectable, purificada y vapor limpio.</li>
+                <li data-section="solfran" data-value="ul-solfran7">Uso de equipos como potenciometro, viscosimetro, fragilizador, durometro.</li>
+                <li data-section="solfran" data-value="ul-solfran8">Realización de instructivos.</li>
+                <li data-section="solfran" data-value="ul-solfran9">Experiencia en solidos, liquidos, betalactamicos, inyectables y MP.</li>
+             
+              </ul>
+            </div>
+          </div>
+
+          <!--OBRA-->
+          <p>
+            <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExample" data-section="botones" data-value="boton-residente">
+              Ing. Residente Sr
+            </a>
+            <!--<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+              Button with data-bs-target
+            </button>-->
+          </p>
+          <div class="collapse" id="collapseExample2">
+            <div class="card card-body obra">
+             <p class="p-obra" data-section="obra" data-value="p-obra"> Residente de obra en Consorcio Linea 3  2017-2018
+              desempeñando las siguiente actividades:</p>
+              <ul>
+                <li data-section="obra" data-value="ul-obra1">Gestion de consumibles de obra.</li>
+                <li data-section="obra" data-value="ul-obra2">Hacer planos en AutoCad 2D.</li>
+                <li data-section="obra" data-value="ul-obra3">Inventario y gestion de maquinaría y refracciones.</li>
+                <li data-section="obra" data-value="ul-obra4">Gestión y aprobación de horas pagadas del personal a mi cargo.</li>
+                <li data-section="obra" data-value="ul-obra5">Organización y supervisión de uno de los frentes en el desmontaje de una tuneladora, teniendo a cargo 35 personas más contratistas.</li>
+                <li data-section="obra" data-value="ul-obra6">Gestión de maquinaria como compresores, grupos electrogenos, gruas de 80 a 800 toneladas,volteos,camas bajas etc.</li>
+                <li data-section="obra" data-value="ul-obra7">Supervisión en obra instalación de tuberia hincada con microtuneladora 2m diametro, teniendo a mi cargo 25 personas más maquinaría.</li>
+              </ul>
+              <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="Imagenes/Tuneladora2.jpeg" class="d-block w-100" alt="microtuneladora">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="Imagenes/Tuneladora8.jpeg" class="d-block w-100" alt="desmontaje Tuneladora2">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="Imagenes/Tuneladora5.jpeg" class="d-block w-100" alt="desmontaje tuneladora3">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!--FLEX-->
+          <p>
+            <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample3" role="button" aria-expanded="false" aria-controls="collapseExample" data-section="botones" data-value="boton-jr">
+              Ing. Industrial Jr
+            </a>
+            <!--<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+              Button with data-bs-target
+            </button>-->
+          </p>
+          <div class="collapse" id="collapseExample3">
+            <div class="card card-body flextronics">
+              <p data-section="flex" data-value="p-flex">Ingeniero Industrial Regional jr 2019-2020 
+              Durante mi estancia en Flex desempeñe las siguientes funciones:</p>
+              <ul>
+                <li data-section="flex" data-value="ul-flex1">Realizar balanceos de linea.</li>
+                <li data-section="flex" data-value="ul-flex2">Diseñar LayOut para nuevas lineas productivas.</li>
+                <li data-section="flex" data-value="ul-flex3">Mejorar LayOut existentes.</li>
+                <li data-section="flex" data-value="ul-flex4">Diseñar estaciones de trabajo ergonomicas en AutoCad 3D.</li>
+                <li data-section="flex" data-value="ul-flex5">Realizar MockUp Line.</li>
+                <li data-section="flex" data-value="ul-flex6">Realizar estudios de tiempos.</li>
+                <li data-section="flex" data-value="ul-flex7">Proyectos optimización de espacio.</li>
+                <li data-section="flex" data-value="ul-flex8">Proyectos optimización de proceso con la metodologia manufactura esbelta y seis sigma.</li>
+                <li data-section="flex" data-value="ul-flex9">Soporte de ingenieria a diferentes naves electronico y metal mecanico.</li>
+              </ul>
+            </div>
+          </div>
+
+          <!--PISA-->
+          <p>
+            <a class="btn btn-primary" data-bs-toggle="collapse" href="#collapseExample4" role="button" aria-expanded="false" aria-controls="collapseExample" data-section="botones" data-value="boton-sr">
+              Ing. Industrial Sr
+            </a>
+            <!--<button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+              Button with data-bs-target
+            </button>-->
+          </p>
+          <div class="collapse" id="collapseExample4">
+            <div class="card card-body pisa">
+              <p data-section="pisa" data-value="p-pisa">Ingeniero industrial Sr en Laboratorios PiSA  2020-2023
+              desempeñando las siguiente actividades:</p>
+              <ul>
+                <li data-section="pisa" data-value="ul-pisa1">Realizar balanceos de linea.</li>
+                <li data-section="pisa" data-value="ul-pisa2">Realizar estudios de tiempos.</li>
+                <li data-section="pisa" data-value="ul-pisa3">Estudio de capacidad y saturación en lineas de produccion.</li>
+                <li data-section="pisa" data-value="ul-pisa4">Diseñar estaciones de trabajo ergonomicas en AutoCad 3D.</li>
+                <li data-section="pisa" data-value="ul-pisa5">Estudios estadisticos como ANOVA, Monte Carlo, graficos e hipotesis.</li>
+                <li data-section="pisa" data-value="ul-pisa6">Diseñar LayOut para nuevas lineas productivas.</li>
+                <li data-section="pisa" data-value="ul-pisa7">Mejorar LayOut existentes.</li>
+                <li data-section="pisa" data-value="ul-pisa8">Implementacion de 5s.</li>
+                <li data-section="pisa" data-value="ul-pisa9">Participación en proyectos de ahorro en costos de fabricación.</li>
+                <li data-section="pisa" data-value="ul-pisa10">Realizar metodos de trabajo estandar.</li>
+                <li data-section="pisa" data-value="ul-pisa11">Impartir cursos basicos de manufactura esbelta y 5S.</li>
+                <li data-section="pisa" data-value="ul-pisa12">Participación en proyectos de aumento de eficiencia productiva, Oee.</li>
+                <li data-section="pisa" data-value="ul-pisa13">Uso de herramientas manufactura esbelta y seis sigma</li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+      </section>
+      <!--Footer-->
+       <footer id="personalData" class="d-flex flex-column aling-items-center justify-content-center">
+        <p 
+          <i class="bi bi-phone-vibrate-fill"></i>
+        3313984073</p>
+        <p 
+        <i class="bi bi-envelope-at-fill"></i>
+        silverfenrir@hotmail.com</p>
+        <p 
+        <i class="bi bi-geo-alt-fill"></i>
+        Francisco I Madero #6 Col. Los puestos Tlaquepaque Jalisco</p>
+
+       </footer>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+      <script src="./cv.js"></script>  
+</body>
+</html>
