@@ -8,7 +8,7 @@
        "ul-solfran5": "Release or retention of finished product.",
        "ul-solfran6": "Sample of injectable, purified water and clean steam.",
        "ul-solfran7": "Use of equipment such as potentiometer, viscometer, embrittlement, durometer.",
-       "ul-solfran8": "Documentation of instructions.",
+       "ul-solfran8": "Documentation of instructions in accordance with the regulations in force in the SGC.",
        "ul-solfran9": "I have experience in solids, liquids, beta-lactams, injectables and MP"
 
     },
@@ -26,32 +26,36 @@
 
     "flex":{
          "p-flex": "Regional Industrial Engineer jr 2019-2020 during my stay at Flex I performed the following functions:",
-         "ul-flex1": "Perform line balancing.",
+         "ul-flex1": "Perform line balancing in backend, structural, SMT and kiting.",
          "ul-flex2": "Design LayOut for new production lines.",
-         "ul-flex3": "Improve existing LayOut.",
+         "ul-flex3": "Implementation of kanban systems.",
          "ul-flex4": "Design ergonomic workstations in AutoCad 3D.",
-         "ul-flex5": "Make MockUp Line",
-         "ul-flex6": "Carry out time studies.",
+         "ul-flex5": "Make MockUp Line for new potential clients.",
+         "ul-flex6": "Carry out time studies, takt time.",
          "ul-flex7": "Space optimization projects.",
          "ul-flex8": "Process optimization projects, using lean sixsigma",
-         "ul-flex9": "Engineering support to different electronic and mechanical metal ships."    
+         "ul-flex9": "Engineering support to different electronic and mechanical metal ships.",
+         "ul-flex10": "Perform standard work procedures and flow charts in accordance with the QMS.",
+         "ul-flex11": "Dealing with potential clients for the development and proposals of new operational lines.",
+         "ul-flex12": "Monthly reports for corporate management on the use of space in the plant."    
     },
 
      "pisa": {
       "p-pisa": "Sr Industrial Engineer at PiSA Laboratories 2020-2023 performing the following activities:",
       "ul-pisa1": "Perform line balancing.",
-      "ul-pisa2": "Carry out time studies.",
-      "ul-pisa3": "Study of capacity and saturation in production lines.",
+      "ul-pisa2": "Carry out time studies, takt time.",
+      "ul-pisa3": "Study of capacity and saturation in production lines and support departments.",
       "ul-pisa4": "Design ergonomic workstations in AutoCad 3D.",
-      "ul-pisa5": "Statistical studies such as ANOVA, Monte Carlo, graphs and hypotheses.",
-      "ul-pisa6": "Design LayOut for new production lines.",
-      "ul-pisa7": "Improve existing LayOut.",
-      "ul-pisa8": "Implementation of 5s.",
-      "ul-pisa9": "Participation in manufacturing cost saving projects.",
-      "ul-pisa10": "Carry out standard work methods.",
-      "ul-pisa11": "Teach basic courses in lean manufacturing and 5S.",
-      "ul-pisa12": "Participation in projects to increase productive efficiency, Oee.",
-      "ul-pisa13": "Use of lean manufacturing tools and six sigma"
+      "ul-pisa5": "Design LayOut for new production lines.",
+      "ul-pisa6": "Improve existing LayOut.",
+      "ul-pisa7": "Carry out projects to increase productive efficiency, Oee.",
+      "ul-pisa8": "Carry out savings projects in manufacturing costs and for support areas.",
+      "ul-pisa9": "Documentation of procedures, instructions and flow charts in accordance with the QMS",
+      "ul-pisa10": "Implementation of six sigma, 5S, and lean manufacturing.",
+      "ul-pisa11": "Teach basic six sigma, 5S and lean manufacturing courses to production staff.",
+      "ul-pisa12": "Deal with suppliers for acquisition and installation of machinery or technologies.",
+      "ul-pisa13": "Statistical studies such as ANOVA, Monte Carlo, CPK, graphs and hypotheses.",
+      "ul-pisa14": "Project management and monitoring based on DMAIC, 3G, 8D, 5WHY, 4Q, AMEF, KPI."
      },
 
      "acercaMi": {
