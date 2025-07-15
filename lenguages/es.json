@@ -24,7 +24,7 @@
  },
 
  "flex":{
-    "p-flex": "Ingeniero Industrial Regional jr 2019-2020 durante mi estancia en Flex desempeñe las siguientes funciones:",
+    "p-flex": "Business excelence regional jr 2019-2020 durante mi estancia en Flex desempeñe las siguientes funciones:",
     "ul-flex1": "Realizar balanceos de líneas en backend, estructural, SMT y kiteo.",
     "ul-flex2": "Diseñar LayOut para nuevas lineas productivas.",
     "ul-flex3": "Implemetación de sistemas kanban.",
@@ -40,9 +40,43 @@
 
  },
 
+ "ennovi": {
+   "p-ennovi": "Ingeniero industrial NPI 2023-2024  durante mi estancia en Ennovi desempeñe las siguientes funciones",
+   "ul-ennovi1": "Estudio de tiempo y balanceo en moldeo, estampado, fundido, ensamble.",
+   "ul-ennovi2": "Realizar diagramas de proceso para liberar lineas.",
+   "ul-ennovi3": "Soporte en actividades para cotizacion de nuevos productos.",
+   "ul-ennovi4": "Implementar estadares para 5S para planta productiva.",
+   "ul-ennovi5": "Auditoria  5S.",
+   "ul-ennovi6": "Documentar cambios de proceso.",
+   "ul-ennovi7": "Registrar en SAP DL, BOM, routing, costos, PR y factores de uso.",
+   "ul-ennovi8": "Definir layouts, diseño de empaques y nomas de empaque para NPI.",
+   "ul-ennovi9": "Liderar equipos multidiciplinarios para realizar VSM, FMEA y R FMEA.",
+   "ul-ennovi10": "Definir mantenimientos predictivos y autonomos.",
+   "ul-ennovi11": "Desarrollar app (power app) de mantenimiento para piso productivo.",
+   "ul-ennovi12": "Proyectos para ahorro de espacio y costos.",
+   "ul-ennovi13": "Trato con proveedores  para adquisicion e instalacion de maquinaria.",
+   "ul-ennovi14": "Analizar KPIs clave para identificar oportunidades de mejora."
+  },
+
+  "foxconn": {
+   "p-foxconn": "Ingeniero calidad y mejora continua 2024-Actualidad en Foxconn desempeño las siguientes funciones:",
+   "ul-foxconn1": "Realizar SIPs.",
+   "ul-foxconn2": "Crear alertas de calidad.",
+   "ul-foxconn3": "Soporte a la introduccion de nuevos productos.",
+   "ul-foxconn4": "Crear reportes Power BI.",
+   "ul-foxconn5": "Participar en auditorias internas como auditor.",
+   "ul-foxconn6": "Llevar acabo 8Ds.",
+   "ul-foxconn7": "Liderear equipos multidiciplinarios para AMEF y planes de control.",
+   "ul-foxconn8": "Servicio al cliente llevando junntas con reportes KPIs.",
+   "ul-foxconn9": "Servicio al cliente cerrando quejas o peticiones.",
+   "ul-foxconn10": "Manejo de proyectos basado en DMAIC, 8Ds 3G.",
+   "ul-foxconn11": "Recibir auditorias externas ISO 9001.",
+   "ul-foxconn12": "Analisis de datos para identificar mejoras y riesgos."
+  },
+
  "pisa": {
-   "p-pisa": "Ingeniero industrial Sr en Laboratorios PiSA  2020-2023 desempeñando las siguiente actividades:",
-   "ul-pisa1": "Balancing lines in warehouse areas, review, conditioning and rework.",
+   "p-pisa": "Ingeniero mejora continua Sr en Laboratorios PiSA  2020-2023 desempeñando las siguiente actividades:",
+   "ul-pisa1": "Balanceo de líneas en areas de almacén, revisión, acondicionado y retrabajos.",
    "ul-pisa2": "Estudio de tiempos takt time.",
    "ul-pisa3": "Estudio de capacidad y saturación en líneas de producción y departamentos de soporte.",
    "ul-pisa4": "Diseñar estaciones de trabajo ergonomicas en AutoCad 3D.",
@@ -59,7 +93,7 @@
   },
 
    "acercaMi": {
-        "p-acercaMi": "Soy Ingeniero Industrial egresado de la UTEG tengo 30 años, soy autodidacta y me enfoco en el aprendizaje continuo. Siempre intento ejercer mis habilidades y conocimientos, encaminado al crecimiento personal y el crecimiento de la empresa que se convierte en uno mismo en un determinado momento, busco ofrecer un buen desempeño y ser evaluado constantemente para lograr avances con críticas constructivas. Me gusta tomar iniciativas y crear mis propias cosas como este sitio web."  
+        "p-acercaMi": "Soy Ingeniero Industrial egresado de la UTEG tengo 32 años, soy autodidacta y me enfoco en el aprendizaje continuo. Siempre intento ejercer mis habilidades y conocimientos, encaminado al crecimiento personal y el crecimiento de la empresa que se convierte en uno mismo en un determinado momento, busco ofrecer un buen desempeño y ser evaluado constantemente para lograr avances con críticas constructivas. Me gusta tomar iniciativas y crear mis propias cosas como este sitio web."  
    },
 
    "titulos": {
@@ -74,9 +108,9 @@
 
    "botones":{
        "boton-inspector": "Inspector calidad",
-       "boton-residente": "Ing. Residente Sr",
-       "boton-jr":        "Ing. Indistrial Jr",
-       "boton-sr":        "Ing. Industrial Sr"  
+       "boton-residente": "Ing. Residente SR",
+       "boton-jr":        "Business excelence",
+       "boton-sr":        "Ing. Mejora continua"  
 
    }
 

@@ -25,7 +25,7 @@
     },
 
     "flex":{
-         "p-flex": "Regional Industrial Engineer jr 2019-2020 during my stay at Flex I performed the following functions:",
+         "p-flex": "Regional Business excelence jr 2019-2020 during my stay at Flex I performed the following functions:",
          "ul-flex1": "Perform line balancing in backend, structural, SMT and kiting.",
          "ul-flex2": "Design LayOut for new production lines.",
          "ul-flex3": "Implementation of kanban systems.",
@@ -40,9 +40,43 @@
          "ul-flex12": "Monthly reports for corporate management on the use of space in the plant."    
     },
 
+    "ennovi": {
+     "p-ennovi": "Industrial engineer NPI 2023-2024  during my stay at Ennovi I performed the following functions",
+     "ul-ennovi1": "Study of times and balancing in molding, stamping, forging, welding, assembly and packaging lines.",
+     "ul-ennovi2": "Make process diagrams for releasing new projects.",
+     "ul-ennovi3": "Support in activities for quotes for new and transfer projects.",
+     "ul-ennovi4": "Perform 5s standards (design) for productive plant.",
+     "ul-ennovi5": "5s audits.",
+     "ul-ennovi6": "Documentation of changes to the process.",
+     "ul-ennovi7": "Register in SAP DL, BOOM, routing, cost centers, PR and usage factors.",
+     "ul-ennovi8": "Define layout, loading box, internal packaging, labor and industrialization for new projects.",
+     "ul-ennovi9": "Lead multidisciplinary team for VSM, FMEA and reverse FMEA.",
+     "ul-ennovi10": "Define autonomous and predictive maintenance.",
+     "ul-ennovi11": "Develop app (power app) about maintenance for production flor.",
+     "ul-ennovi12": "Projects to saving space and cost.",
+     "ul-ennovi13": "Deal with suppliers for acquisition and installation of machinery or technologies.",
+     "ul-ennovi14": "Analyze key KPIs to identify oportunities of improvement."
+    },
+  
+    "foxconn": {
+     "p-foxconn": "Quality engineer and continuous improvement 2024-Currently in Foxconn performed the following functions:",
+     "ul-foxconn1": "Create SIPs.",
+     "ul-foxconn2": "Create quality alert.",
+     "ul-foxconn3": "Support to new product introduction.",
+     "ul-foxconn4": "Create reports in Power bi.",
+     "ul-foxconn5": "Participate in internal audits as auditor.",
+     "ul-foxconn6": "Carry out 8D.",
+     "ul-foxconn7": "Lead multidisciplinary team for FMEA and quality plans.",
+     "ul-foxconn8": "Serving customer with meeting, report key KPIs.",
+     "ul-foxconn9": "Serving customer attend claims or any issue in the project.",
+     "ul-foxconn10": "Project management and monitoring based on DMAIC, CORE TOOLS, 3G, 8D",
+     "ul-foxconn11": "Receive external ISO 9001-2015 audits.",
+     "ul-foxconn12": "Data analysis to solve manufacturing or quality issues."
+    },
+
      "pisa": {
-      "p-pisa": "Sr Industrial Engineer at PiSA Laboratories 2020-2023 performing the following activities:",
-      "ul-pisa1": "Perform line balancing.",
+      "p-pisa": "Sr continuous improvement Engineer at PiSA Laboratories 2020-2023 performing the following activities:",
+      "ul-pisa1": "Balancing lines in warehouse areas, review, conditioning and rework.",
       "ul-pisa2": "Carry out time studies, takt time.",
       "ul-pisa3": "Study of capacity and saturation in production lines and support departments.",
       "ul-pisa4": "Design ergonomic workstations in AutoCad 3D.",
@@ -59,7 +93,7 @@
      },
 
      "acercaMi": {
-      "p-acercaMi": "I am an Industrial Engineer graduated from UTEG I am 30 years old, I consider myself a self-taught person and I focus on continuous learning. I always try to prove my skills and knowledge, I seek personal growth and the growth of the company which becomes oneself at a certain point, I like to offer good performance and be constantly evaluated to achieve progress with constructive criticism. I like to take initiatives to go for new technologies and create my own things just like this website." 
+      "p-acercaMi": "I am an Industrial Engineer graduated from UTEG I am 32 years old, I consider myself a self-taught person and I focus on continuous learning. I always try to prove my skills and knowledge, I seek personal growth and the growth of the company which becomes oneself at a certain point, I like to offer good performance and be constantly evaluated to achieve progress with constructive criticism. I like to take initiatives to go for new technologies and create my own things just like this website." 
   },
 
   "titulos": {
@@ -74,8 +108,8 @@
 
    "botones":{
       "boton-inspector": "Tec. Quality-Inspector",
-      "boton-residente": "Resident Engineer Sr",
-      "boton-jr":        "Industrial Engineer-Jr",
-      "boton-sr":        "Industrial Engineer-Sr"
+      "boton-residente": "Resident Engineer SR",
+      "boton-jr":        "Business excelence",
+      "boton-sr":        "C.I. Engineer SR"
 }
 }
