@@ -110,7 +110,9 @@
        "boton-inspector": "Inspector calidad",
        "boton-residente": "Ing. Residente SR",
        "boton-jr":        "Business excelence",
-       "boton-sr":        "Ing. Mejora continua"  
+       "boton-sr":        "Ing. Mejora continua",
+       "boton-en":        "Ing. Industrial NPI",
+       "boton-fx":     "Ing. Calidad SR"
 
    }
 

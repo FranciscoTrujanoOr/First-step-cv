@@ -110,6 +110,9 @@
       "boton-inspector": "Tec. Quality-Inspector",
       "boton-residente": "Resident Engineer SR",
       "boton-jr":        "Business excelence",
-      "boton-sr":        "C.I. Engineer SR"
+      "boton-sr":        "C.I. Engineer SR",
+      "boton-en":        "Industrial NPI engineer",
+     "boton-fx":         "Quality engineer SR"
 }
+
 }
